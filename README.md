@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codePradeep
+# 👋 Hi, I’m @codePradeep
 - 👀 I’m interested in Codes
 - 🌱 I’m currently learning React-Native
 
