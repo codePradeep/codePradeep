@@ -31,4 +31,5 @@
 
 **✨ Let’s build something amazing together! Happy coding! ✨**
 
-![Wave Animation](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+![Thanks Animation](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)  
+*Thanks for stopping by! Let’s make the world a better place, one line of code at a time.*  
